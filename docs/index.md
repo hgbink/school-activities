@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 ```meta
 {
   "title": "Home",

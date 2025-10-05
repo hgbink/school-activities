@@ -1,6 +1,6 @@
 {
   "id": "index",
-  "title": "index",
+  "title": "Home",
   "description": "This wiki organises the typical activities in a school day into structured categories.",
   "source": "@site/docs/index.md",
   "sourceDirName": ".",
@@ -10,7 +10,9 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "title": "Home"
+  },
   "sidebar": "mainSidebar",
   "next": {
     "title": "Administrative & Contextual",
