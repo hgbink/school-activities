@@ -32,7 +32,8 @@
             },
             {
               "id": "index",
-              "path": "/"
+              "path": "/",
+              "sidebar": "mainSidebar"
             },
             {
               "id": "social-development",
@@ -54,8 +55,8 @@
           "sidebars": {
             "mainSidebar": {
               "link": {
-                "path": "/administration",
-                "label": "Administrative & Contextual"
+                "path": "/",
+                "label": "Home"
               }
             }
           }

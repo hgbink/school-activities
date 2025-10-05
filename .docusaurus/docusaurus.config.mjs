@@ -40,13 +40,7 @@ export default {
       "title": "School Activities Wiki",
       "items": [
         {
-          "type": "docSidebar",
-          "sidebarId": "mainSidebar",
-          "position": "left",
-          "label": "Wiki"
-        },
-        {
-          "href": "https://github.com/your-org-or-user/school-activities-wiki",
+          "href": "https://github.com/hgbink/school-activities",
           "label": "GitHub",
           "position": "right"
         }

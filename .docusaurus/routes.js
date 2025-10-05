@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '6c4'),
+    component: ComponentCreator('/', '917'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '26f'),
+        component: ComponentCreator('/', '6e1'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', 'f94'),
+            component: ComponentCreator('/', '9ec'),
             routes: [
               {
                 path: '/administration',
@@ -93,8 +93,9 @@ export default [
               },
               {
                 path: '/',
-                component: ComponentCreator('/', 'c48'),
-                exact: true
+                component: ComponentCreator('/', 'c02'),
+                exact: true,
+                sidebar: "mainSidebar"
               }
             ]
           }

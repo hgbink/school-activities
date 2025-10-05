@@ -1,16 +1,9 @@
 ```meta
 {
-  "title": "School Activities Wiki",
+  "title": "Home",
   "schema": "sections",
-  "sidebar_label": "Wiki Home",
-  "sidebar_class_name": "hidden",
-  "hide_sidebar": true
 }
 ```
-
----
-title: School Activities Wiki
----
 
 # School Activities Wiki
 

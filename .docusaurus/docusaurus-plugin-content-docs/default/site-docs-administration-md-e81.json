@@ -12,8 +12,12 @@
   "version": "current",
   "frontMatter": {},
   "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Home",
+    "permalink": "/"
+  },
   "next": {
-    "title": "Core Academic Subjects",
-    "permalink": "/core-academic"
+    "title": "Breaks & Wellbeing",
+    "permalink": "/wellbeing"
   }
 }

@@ -13,7 +13,11 @@
   "frontMatter": {},
   "sidebar": "mainSidebar",
   "previous": {
-    "title": "Sport & Physical Education",
-    "permalink": "/sport-pe"
+    "title": "Administrative & Contextual",
+    "permalink": "/administration"
+  },
+  "next": {
+    "title": "Core Academic Subjects",
+    "permalink": "/core-academic"
   }
 }

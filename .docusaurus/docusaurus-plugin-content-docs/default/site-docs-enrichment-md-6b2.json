@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "mainSidebar",
   "previous": {
-    "title": "Creative & Performing Arts",
-    "permalink": "/creative-arts"
-  },
-  "next": {
     "title": "Social & Personal Development",
     "permalink": "/social-development"
+  },
+  "next": {
+    "title": "Sport & Physical Education",
+    "permalink": "/sport-pe"
   }
 }

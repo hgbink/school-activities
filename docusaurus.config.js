@@ -79,7 +79,7 @@ module.exports = {
             };
 
             // remove items that should be hidden
-            const items = original_items.filter((item) => !shouldHide(item));
+            const items = original_items; //.filter((item) => !shouldHide(item));
 
             function relabel(nodes) {
               for (const n of nodes) {
@@ -90,12 +90,26 @@ module.exports = {
                     // Use title exactly:
                     n.label = metaTitle;
                   }
+                  else {
+                    n.label = "Home";
+                  }
                 }
                 if (n.items) relabel(n.items);
               }
             }
 
             relabel(items);
+
+            //order by label
+            items.sort((a, b) => a.label.localeCompare(b.label));
+
+            // move Home to the top
+            const home = items.find((item) => item.label === 'Home');
+            if (home) {
+              items.splice(items.indexOf(home), 1);
+              items.unshift(home);
+            }
+
             return items;
           },
         },
@@ -109,8 +123,7 @@ module.exports = {
     navbar: {
       title: 'School Activities Wiki',
       items: [
-        { type: 'docSidebar', sidebarId: 'mainSidebar', position: 'left', label: 'Wiki' },
-        { href: 'https://github.com/your-org-or-user/school-activities-wiki', label: 'GitHub', position: 'right' },
+        { href: 'https://github.com/hgbink/school-activities', label: 'GitHub', position: 'right' },
       ],
     },
     footer: {
