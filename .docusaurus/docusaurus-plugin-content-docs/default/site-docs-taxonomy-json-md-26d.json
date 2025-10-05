@@ -1,0 +1,19 @@
+{
+  "id": "taxonomy-json",
+  "title": "Machine-Readable Taxonomy",
+  "description": "Below is a JSON representation of the taxonomy for use in apps/dashboards.",
+  "source": "@site/docs/taxonomy-json.md",
+  "sourceDirName": ".",
+  "slug": "/taxonomy-json",
+  "permalink": "/taxonomy-json",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Administrative & Contextual",
+    "permalink": "/administration"
+  }
+}

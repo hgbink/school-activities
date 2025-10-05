@@ -1,0 +1,23 @@
+{
+  "id": "social-development",
+  "title": "Social & Personal Development",
+  "description": "Programs that build character, empathy, leadership, and community.",
+  "source": "@site/docs/social-development.md",
+  "sourceDirName": ".",
+  "slug": "/social-development",
+  "permalink": "/social-development",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Special Learning & Enrichment",
+    "permalink": "/enrichment"
+  },
+  "next": {
+    "title": "Breaks & Wellbeing",
+    "permalink": "/wellbeing"
+  }
+}

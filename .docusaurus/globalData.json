@@ -1,0 +1,73 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "administration",
+              "path": "/administration",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "core-academic",
+              "path": "/core-academic",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "creative-arts",
+              "path": "/creative-arts",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "enrichment",
+              "path": "/enrichment",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "social-development",
+              "path": "/social-development",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "sport-pe",
+              "path": "/sport-pe",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "taxonomy-json",
+              "path": "/taxonomy-json",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "wellbeing",
+              "path": "/wellbeing",
+              "sidebar": "mainSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "mainSidebar": {
+              "link": {
+                "path": "/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "core-academic",
+  "title": "Core Academic Subjects",
+  "description": "Core subjects form the foundation of structured classroom learning.",
+  "source": "@site/docs/core-academic.md",
+  "sourceDirName": ".",
+  "slug": "/core-academic",
+  "permalink": "/core-academic",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "School Activities Wiki",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Creative & Performing Arts",
+    "permalink": "/creative-arts"
+  }
+}

@@ -1,0 +1,73 @@
+/**
+ * School Activities Wiki — Custom Theme
+ * You can safely edit colors, spacing, or typography here.
+ */
+
+:root {
+  --ifm-color-primary: #2a72b5; /* calm educational blue */
+  --ifm-color-primary-dark: #1f5b91;
+  --ifm-color-primary-light: #3c8ad1;
+  --ifm-font-family-base: "Inter", "Segoe UI", system-ui, sans-serif;
+}
+
+html[data-theme='dark'] {
+  --ifm-color-primary: #5aa9e6;
+  --ifm-background-color: #1c1e23;
+  --ifm-font-color-base: #e0e0e0;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+a {
+  text-decoration: none;
+  color: var(--ifm-color-primary);
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+}
+
+table th, table td {
+  border: 1px solid #ddd;
+  padding: 0.5em 1em;
+}
+
+blockquote {
+  border-left: 4px solid var(--ifm-color-primary);
+  background: #f7faff;
+  padding: 0.8em 1em;
+  font-style: italic;
+  color: #333;
+}
+
+blockquote p {
+  margin: 0;
+}
+
+code {
+  background-color: #f0f4f8;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  font-family: monospace;
+}
+
+pre {
+  background-color: #f7faff;
+  border-radius: 6px;
+  padding: 1em;
+  overflow-x: auto;
+}
+
+footer {
+  font-size: 0.85em;
+  opacity: 0.8;
+}

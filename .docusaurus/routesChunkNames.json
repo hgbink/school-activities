@@ -1,0 +1,94 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/-b1e": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---aba-d70"
+    }
+  },
+  "/-cb1": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---22-d-307"
+  },
+  "/-a7b": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/administration-b83": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---administratione-81-412"
+  },
+  "/core-academic-5a3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---core-academic-728-f0e"
+  },
+  "/creative-arts-003": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---creative-artse-8-c-5e8"
+  },
+  "/enrichment-428": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---enrichment-6-b-2-a85"
+  },
+  "/social-development-92d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---social-development-525-190"
+  },
+  "/sport-pe-869": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sport-pe-51-f-86c"
+  },
+  "/taxonomy-json-39b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---taxonomy-json-26-d-dd5"
+  },
+  "/wellbeing-3e6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---wellbeingd-2-c-6ce"
+  },
+  "/-c02": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---c-37-d02"
+  }
+}
