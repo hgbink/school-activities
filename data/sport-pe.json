@@ -1,40 +1,50 @@
 {
   "title": "Sport & Physical Education",
   "sections": {
-    "Team Sports": [
-      "Soccer",
-      "Basketball",
-      "Netball",
-      "Cricket",
-      "Rugby",
-      "AFL",
-      "Volleyball"
-    ],
-    "Individual Sports": [
-      "Athletics",
-      "Swimming",
-      "Tennis",
-      "Gymnastics"
-    ],
-    "Skill Development & Fitness": [
-      "PE lessons",
-      "Fitness circuits",
-      "Movement skills",
-      "Stretching",
-      "Dance fitness"
-    ],
-    "Outdoor & Seasonal": [
-      "Orienteering",
-      "Hiking",
-      "Cross-country",
-      "Jump rope",
-      "Outdoor adventure"
-    ],
-    "School Events": [
-      "Athletics Carnival",
-      "Swimming Carnival",
-      "Cross-Country Day",
-      "Sports Gala Days"
-    ]
+    "Team Sports": {
+      "items": [
+        "Soccer",
+        "Basketball",
+        "Netball",
+        "Cricket",
+        "Rugby",
+        "AFL",
+        "Volleyball"
+      ]
+    },
+    "Individual Sports": {
+      "items": [
+        "Athletics",
+        "Swimming",
+        "Tennis",
+        "Gymnastics"
+      ]
+    },
+    "Skill Development & Fitness": {
+      "items": [
+        "PE lessons",
+        "Fitness circuits",
+        "Movement skills",
+        "Stretching",
+        "Dance fitness"
+      ]
+    },
+    "Outdoor & Seasonal": {
+      "items": [
+        "Orienteering",
+        "Hiking",
+        "Cross-country",
+        "Jump rope",
+        "Outdoor adventure"
+      ]
+    },
+    "School Events": {
+      "items": [
+        "Athletics Carnival",
+        "Swimming Carnival",
+        "Cross-Country Day",
+        "Sports Gala Days"
+      ]
+    }
   }
 }

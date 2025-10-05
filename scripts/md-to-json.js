@@ -2,7 +2,7 @@
 // Extract structured JSON from docs/*.md using a fenced ```meta JSON block
 // schemas:
 // - "flat": collects bullet items (prefers those under H2; falls back to top-level lists)
-// - "sections": each H2 (##) is a section; bullets beneath become that section's items
+// - "sections": each H2 (##) becomes a section object: { items: [...] }
 
 const fs = require('fs');
 const path = require('path');
@@ -67,7 +67,7 @@ function processSections(md, meta) {
   const sections = {};
   for (const sec of h2s) {
     const items = extractBullets(sec.content);
-    sections[sec.title] = items;
+    sections[sec.title] = { items }; // <<— key change: return object with items array
   }
   return { title: meta.title || 'Untitled', sections };
 }
