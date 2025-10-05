@@ -1,14 +1,30 @@
-# School Activities Wiki
+# 🏫 School Activities Wiki
 
-A mini wiki of school-day activities (curricular, co-/extra-curricular, wellbeing, sport, admin) designed for primary/elementary contexts.
+A structured, open educational taxonomy that organizes the full range of **school-day activities** — from academic lessons and arts to sports, wellbeing, and enrichment — into clean, machine-readable categories.
 
-## Quick Start (Netlify)
-1. Push this folder to GitHub.
-2. On Netlify: **New site from Git** → select the repo.
-3. Build command: `npm run build` — Publish directory: `build`.
+🟢 **Live Demo:** [https://activities.schoolcalendar.me/](https://activities.schoolcalendar.me/)
 
-## Local Dev
+---
+
+## 📘 Overview
+
+This wiki is built with **[Docusaurus 3](https://docusaurus.io/)** and automatically converts its Markdown sources into validated JSON data.  
+It’s designed for educators, planners, and developers who want to:
+
+- Document school schedules, timetables, and activities consistently  
+- Use structured data for analytics or dashboards  
+- Auto-generate visual or programmatic timelines  
+
+---
+
+## 🚀 Quick Start
+
 ```bash
-npm i
-npm run start
-```
+# Install dependencies
+npm ci
+
+# Run locally
+npm start
+
+# Build static site
+npm run build
