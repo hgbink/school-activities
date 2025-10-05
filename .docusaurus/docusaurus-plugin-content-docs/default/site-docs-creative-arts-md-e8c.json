@@ -1,6 +1,6 @@
 {
   "id": "creative-arts",
-  "title": "Creative & Performing Arts",
+  "title": "creative-arts",
   "description": "Activities that foster imagination, expression, and artistic skills.",
   "source": "@site/docs/creative-arts.md",
   "sourceDirName": ".",
@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "mainSidebar",
   "previous": {
-    "title": "Core Academic Subjects",
+    "title": "core-academic",
     "permalink": "/core-academic"
   },
   "next": {
-    "title": "Sport & Physical Education",
+    "title": "sport-pe",
     "permalink": "/sport-pe"
   }
 }

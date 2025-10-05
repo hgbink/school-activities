@@ -1,0 +1,14 @@
+{
+  "id": "enrichment copy",
+  "title": "enrichment copy",
+  "description": "Learning beyond the standard curriculum, often project-based or cross-disciplinary.",
+  "source": "@site/docs/enrichment copy.md",
+  "sourceDirName": ".",
+  "slug": "/enrichment copy",
+  "permalink": "/enrichment copy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

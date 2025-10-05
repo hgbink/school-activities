@@ -1,8 +1,16 @@
+```meta
+{
+  "title": "Administrative & Contextual",
+  "schema": "flat"
+}
+```
+
 # Administrative & Contextual
 
 Routine school events, transitions, and organisational tasks that shape the week.
 
 ## Includes
+
 - School Assembly
 - Roll Call / Morning Meeting
 - Home Time / Dismissal
@@ -11,4 +19,4 @@ Routine school events, transitions, and organisational tasks that shape the week
 - School Photos / Theme Days
 - Fundraising Events / Fairs
 - Camps / Retreats / Overnight Excursions
-- Whole-School Celebrations (Book Week, Harmony Day, NAIDOC Week)
+- Whole-School Celebrations

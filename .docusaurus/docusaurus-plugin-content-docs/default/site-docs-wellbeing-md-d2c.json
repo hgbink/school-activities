@@ -1,6 +1,6 @@
 {
   "id": "wellbeing",
-  "title": "Breaks & Wellbeing",
+  "title": "wellbeing",
   "description": "Essential downtime for rest, play, and reset.",
   "source": "@site/docs/wellbeing.md",
   "sourceDirName": ".",
@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "mainSidebar",
   "previous": {
-    "title": "Social & Personal Development",
+    "title": "social-development",
     "permalink": "/social-development"
   },
   "next": {
-    "title": "Administrative & Contextual",
+    "title": "administration",
     "permalink": "/administration"
   }
 }

@@ -1,0 +1,14 @@
+{
+  "id": "core-academic copy",
+  "title": "core-academic copy",
+  "description": "Core subjects form the foundation of structured classroom learning.",
+  "source": "@site/docs/core-academic copy.md",
+  "sourceDirName": ".",
+  "slug": "/core-academic copy",
+  "permalink": "/core-academic copy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

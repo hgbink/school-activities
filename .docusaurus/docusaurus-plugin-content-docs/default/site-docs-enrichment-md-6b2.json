@@ -1,6 +1,6 @@
 {
   "id": "enrichment",
-  "title": "Special Learning & Enrichment",
+  "title": "enrichment",
   "description": "Learning beyond the standard curriculum, often project-based or cross-disciplinary.",
   "source": "@site/docs/enrichment.md",
   "sourceDirName": ".",
@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "mainSidebar",
   "previous": {
-    "title": "Sport & Physical Education",
+    "title": "sport-pe",
     "permalink": "/sport-pe"
   },
   "next": {
-    "title": "Social & Personal Development",
+    "title": "social-development",
     "permalink": "/social-development"
   }
 }

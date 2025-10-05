@@ -1,6 +1,6 @@
 {
   "id": "administration",
-  "title": "Administrative & Contextual",
+  "title": "administration",
   "description": "Routine school events, transitions, and organisational tasks that shape the week.",
   "source": "@site/docs/administration.md",
   "sourceDirName": ".",
@@ -13,7 +13,7 @@
   "frontMatter": {},
   "sidebar": "mainSidebar",
   "previous": {
-    "title": "Breaks & Wellbeing",
+    "title": "wellbeing",
     "permalink": "/wellbeing"
   },
   "next": {

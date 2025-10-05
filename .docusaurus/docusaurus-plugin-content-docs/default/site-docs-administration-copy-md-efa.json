@@ -1,0 +1,14 @@
+{
+  "id": "administration copy",
+  "title": "administration copy",
+  "description": "Routine school events, transitions, and organisational tasks that shape the week.",
+  "source": "@site/docs/administration copy.md",
+  "sourceDirName": ".",
+  "slug": "/administration copy",
+  "permalink": "/administration copy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

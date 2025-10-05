@@ -6,14 +6,25 @@
     "start": "docusaurus start",
     "build": "docusaurus build",
     "serve": "docusaurus serve",
-    "deploy": "docusaurus deploy"
+    "deploy": "docusaurus deploy",
+    "gen": "node scripts/generate-md.js",
+    "prestart": "npm run build:data",
+    "prebuild": "npm run build:data",
+    "md2json": "node scripts/md-to-json.js",
+    "validate": "node scripts/validate-json.mjs",
+    "build:data": "npm run md2json && npm run validate"
   },
   "dependencies": {
     "@docusaurus/core": "3.4.0",
     "@docusaurus/preset-classic": "3.4.0",
     "@docusaurus/theme-search-algolia": "3.4.0",
     "clsx": "^2.1.0",
+    "md-json-parser": "^1.0.5-rc.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1"
   }
 }

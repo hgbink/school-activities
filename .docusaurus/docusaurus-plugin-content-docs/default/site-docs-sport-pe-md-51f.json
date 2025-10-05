@@ -1,6 +1,6 @@
 {
   "id": "sport-pe",
-  "title": "Sport & Physical Education",
+  "title": "sport-pe",
   "description": "Physical activities promoting health, coordination, teamwork, and fair play.",
   "source": "@site/docs/sport-pe.md",
   "sourceDirName": ".",
@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "mainSidebar",
   "previous": {
-    "title": "Creative & Performing Arts",
+    "title": "creative-arts",
     "permalink": "/creative-arts"
   },
   "next": {
-    "title": "Special Learning & Enrichment",
+    "title": "enrichment",
     "permalink": "/enrichment"
   }
 }

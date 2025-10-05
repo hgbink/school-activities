@@ -1,18 +1,45 @@
+```meta
+{
+  "title": "Sport & Physical Education",
+  "schema": "sections"
+}
+```
+
 # Sport & Physical Education
 
 Physical activities promoting health, coordination, teamwork, and fair play.
 
 ## Team Sports
-- Soccer, Basketball, Netball, Cricket, Rugby, AFL, Volleyball.
+- Soccer
+- Basketball
+- Netball
+- Cricket
+- Rugby
+- AFL
+- Volleyball
 
 ## Individual Sports
-- Athletics (running, jumping, throwing), Swimming, Tennis, Gymnastics.
+- Athletics
+- Swimming
+- Tennis
+- Gymnastics
 
 ## Skill Development & Fitness
-- PE lessons, fitness circuits, movement skills, stretching, dance fitness.
+- PE lessons
+- Fitness circuits
+- Movement skills
+- Stretching
+- Dance fitness
 
 ## Outdoor & Seasonal
-- Orienteering, hiking, cross-country, jump rope, outdoor adventure.
+- Orienteering
+- Hiking
+- Cross-country
+- Jump rope
+- Outdoor adventure
 
 ## School Events
-- Athletics Carnival, Swimming Carnival, Cross-Country Day, Sports Gala Days.
+- Athletics Carnival
+- Swimming Carnival
+- Cross-Country Day
+- Sports Gala Days
