@@ -12,12 +12,8 @@
   "version": "current",
   "frontMatter": {},
   "sidebar": "mainSidebar",
-  "previous": {
-    "title": "wellbeing",
-    "permalink": "/wellbeing"
-  },
   "next": {
-    "title": "Machine-Readable Taxonomy",
-    "permalink": "/taxonomy-json"
+    "title": "Core Academic Subjects",
+    "permalink": "/core-academic"
   }
 }

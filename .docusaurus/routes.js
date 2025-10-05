@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'b1e'),
+    component: ComponentCreator('/', '6c4'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', 'cb1'),
+        component: ComponentCreator('/', '26f'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', 'a7b'),
+            component: ComponentCreator('/', 'f94'),
             routes: [
               {
                 path: '/administration',
@@ -86,12 +86,6 @@ export default [
                 sidebar: "mainSidebar"
               },
               {
-                path: '/taxonomy-json',
-                component: ComponentCreator('/taxonomy-json', '39b'),
-                exact: true,
-                sidebar: "mainSidebar"
-              },
-              {
                 path: '/wellbeing',
                 component: ComponentCreator('/wellbeing', '3e6'),
                 exact: true,
@@ -99,9 +93,8 @@ export default [
               },
               {
                 path: '/',
-                component: ComponentCreator('/', 'c02'),
-                exact: true,
-                sidebar: "mainSidebar"
+                component: ComponentCreator('/', 'c48'),
+                exact: true
               }
             ]
           }

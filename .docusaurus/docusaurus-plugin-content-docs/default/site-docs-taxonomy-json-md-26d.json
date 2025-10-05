@@ -13,7 +13,11 @@
   "frontMatter": {},
   "sidebar": "mainSidebar",
   "previous": {
-    "title": "administration",
-    "permalink": "/administration"
+    "title": "sport-pe",
+    "permalink": "/sport-pe"
+  },
+  "next": {
+    "title": "wellbeing",
+    "permalink": "/wellbeing"
   }
 }

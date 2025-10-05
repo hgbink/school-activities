@@ -5,11 +5,10 @@
  */
 export default {
   "title": "School Activities Wiki",
-  "tagline": "A practical taxonomy for school day planning",
   "url": "https://example.com",
   "baseUrl": "/",
   "favicon": "img/favicon.ico",
-  "organizationName": "chao-bi",
+  "organizationName": "your-org-or-user",
   "projectName": "school-activities-wiki",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -26,8 +25,8 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/chaobi/workspace/school-activities/sidebars.js",
-          "routeBasePath": "/"
+          "routeBasePath": "/",
+          "sidebarPath": "/Users/chaobi/workspace/school-activities/sidebars.js"
         },
         "blog": false,
         "theme": {
@@ -36,7 +35,6 @@ export default {
       }
     ]
   ],
-  "themes": [],
   "themeConfig": {
     "navbar": {
       "title": "School Activities Wiki",
@@ -45,10 +43,10 @@ export default {
           "type": "docSidebar",
           "sidebarId": "mainSidebar",
           "position": "left",
-          "label": "Docs"
+          "label": "Wiki"
         },
         {
-          "href": "https://github.com/",
+          "href": "https://github.com/your-org-or-user/school-activities-wiki",
           "label": "GitHub",
           "position": "right"
         }
@@ -235,10 +233,12 @@ export default {
   ],
   "customFields": {},
   "plugins": [],
+  "themes": [],
   "scripts": [],
   "headTags": [],
   "stylesheets": [],
   "clientModules": [],
+  "tagline": "",
   "titleDelimiter": "|",
   "noIndex": false,
   "markdown": {

@@ -53,6 +53,13 @@ blockquote p {
   margin: 0;
 }
 
+
+/* Hide all fenced code blocks marked with ```meta */
+pre.language-meta {
+  display: none !important;
+}
+
+
 code {
   background-color: #f0f4f8;
   padding: 0.2em 0.4em;

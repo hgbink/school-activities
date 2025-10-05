@@ -32,8 +32,7 @@
             },
             {
               "id": "index",
-              "path": "/",
-              "sidebar": "mainSidebar"
+              "path": "/"
             },
             {
               "id": "social-development",
@@ -46,11 +45,6 @@
               "sidebar": "mainSidebar"
             },
             {
-              "id": "taxonomy-json",
-              "path": "/taxonomy-json",
-              "sidebar": "mainSidebar"
-            },
-            {
               "id": "wellbeing",
               "path": "/wellbeing",
               "sidebar": "mainSidebar"
@@ -60,8 +54,8 @@
           "sidebars": {
             "mainSidebar": {
               "link": {
-                "path": "/",
-                "label": "index"
+                "path": "/administration",
+                "label": "Administrative & Contextual"
               }
             }
           }

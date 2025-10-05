@@ -1,7 +1,7 @@
 {
   "id": "index",
-  "title": "School Activities Wiki",
-  "description": "This wiki organises the typical activities in a school day into structured categories.",
+  "title": "index",
+  "description": "---",
   "source": "@site/docs/index.md",
   "sourceDirName": ".",
   "slug": "/",
@@ -10,12 +10,5 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "title": "School Activities Wiki"
-  },
-  "sidebar": "mainSidebar",
-  "next": {
-    "title": "core-academic",
-    "permalink": "/core-academic"
-  }
+  "frontMatter": {}
 }
